@@ -1,0 +1,5 @@
+sender,subject,body,sent_date
+alice@example.com,Urgent issue,Hi team, I need help,2025-08-21 21:58:09
+eve@startup.io,Help required,Do you support API?,2025-08-19 00:58:09
+diana@client.co,General query,Hi, I can't log in,2025-08-25 00:58:09
+bob@customer.com,Support needed,Payment issue,2025-08-20 12:58:09
